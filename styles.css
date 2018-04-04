@@ -17,6 +17,13 @@ a.button1 {
 	font-size: 40px;
 }
 h2 {
-	color: black; 
+	color: white; 
 	font-size: 100px; 
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+body.gow {
+    background-image: url("img/Game-of-War-FA.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
