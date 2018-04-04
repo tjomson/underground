@@ -5,7 +5,9 @@ h1 {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 img.main {
-    border-width: 5px;
+    border-style: solid;
+	border-color: black;
+	border-width: 5px;
 	width: 360px;
 	height: 640px;
 }
